@@ -1,0 +1,91 @@
+# PR 2
+Alejandro Pérez Bueno
+Apr 07, 2025
+
+- [Updated PR1 email](#updated-pr1-email)
+- [Summary for PR2 article](#summary-for-pr2-article)
+
+
+
+## Updated PR1 email
+
+> Dear Julia,
+>
+> Thank you for reaching out to InfoFarma. My name is Alex, and I lead
+> the technical department here. We were very pleased to hear from you.
+>
+> We are indeed familiar with Medicat and hold your work in developing
+> countries in high regard. Reaching millions of families in need is
+> truly inspiring. Your mission serves as a powerful reminder of the
+> disparities in pharmaceutical access globally and the importance of
+> taking action to improve these critical situations.
+>
+> Inspired by your mission, the technical team at InfoFarma is keen to
+> propose a collaboration to help digitize Medicat’s operations. We
+> believe a robust digital inventory management system could
+> significantly enhance your efficiency, particularly now that you
+> operate across multiple countries. A key aspect, as we see it, would
+> be enabling each country’s operation to manage its inventory
+> independently, ensuring autonomy and responsiveness.
+>
+> Based on our initial thoughts, such a system could include features
+> like:
+>
+> - Automated low-stock alerts for essential pharmaceuticals,
+>   potentially triggering replenishment requests tailored to each
+>   country’s specific needs.
+> - Predictive analytics to forecast demand patterns within each region,
+>   helping optimize stock levels and minimize waste.
+>
+> Naturally, defining a precise scope, budget, and timeline requires
+> detailed discussion and planning. However, based on our experience
+> with comparable projects, a system of this nature might typically
+> involve a development timeframe of 1-2 years and a budget in the range
+> of €300,000. This estimate generally includes initial development,
+> deployment, ongoing maintenance, and support.
+>
+> To explore this possibility further, would you be available for an
+> initial meeting next week? We are happy to meet in person at your
+> convenience. We at InfoFarma are genuinely excited about the potential
+> to support Medicat’s vital work through this project and contribute to
+> your journey.
+>
+> We look forward to your response.
+>
+> Sincerely,
+>
+> Alex
+
+
+
+## Summary for PR2 article
+
+The Spanish Agency for Medicines and Medical Devices (AEMPS) operates as
+a public body under the Ministry of Health, tasked with ensuring quality
+and safety guarantees for pharmaceuticals, medical devices, cosmetics,
+and personal care products within Spain. It leverages scientific and
+technical knowledge to serve society’s health needs and advancements.
+
+A central tool utilized by AEMPS is the Online Pharmaceutical
+Information Centre (CIMA). This application serves as a comprehensive
+database allowing users to query detailed information about medicines.
+CIMA provides crucial data points such as a drug’s authorization status,
+whether it is currently marketed, its availability through pharmacies,
+and any reported supply issues. It also compiles vital documentation
+like package leaflets and technical fact sheets for pharmaceutical
+products.
+
+Integrated within CIMA is the Nomenclator database, which specifically
+supplies healthcare information systems with fundamental prescription
+data. This includes details on all authorised and marketed medicines
+(both publicly financed and not) and historical data on medicines that
+have been suspended, revoked, or withdrawn from the market since May
+2013.
+
+Additionally, AEMPS manages other public health initiatives. It operates
+the Spanish Medical Device Vigilance System for reporting and analysing
+adverse incidents involving medical devices, enabling corrective
+actions. AEMPS also promotes pharmaceutical research and development
+through its Office for Support of Innovation and Knowledge of Medicinal
+Products, supporting the drug lifecycle from research to application and
+enhancing knowledge about existing medicines.
